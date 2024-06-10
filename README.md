@@ -14,7 +14,7 @@ This script is for setting up commands for your Discord bot on Guilded Bots API.
 
     ```javascript
     const botId = ""; 
-    const apitoken = "";  // do not put your discord token put your api tokene from your http://guildedbots.gg/discord/bot/yourbotid on the manage tab
+    const apitoken = "";  // do not put your discord token put your api token from your http://guildedbots.gg/discord/bot/yourbotid on the manage tab
     ```
 
 3. Define your commands in the `commands` array:

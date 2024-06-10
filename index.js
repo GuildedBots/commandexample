@@ -1,7 +1,7 @@
 const axios = require("axios");
 
 const botId = ""; 
-const apitoken = "";  // do not put your discord token put your api tokene from your http://guildedbots.gg/discord/bot/yourbotid on the manage tab
+const apitoken = "";  // do not put your discord token put your api token from your http://guildedbots.gg/discord/bot/yourbotid on the manage tab
 
 
 const commands = [
