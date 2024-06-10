@@ -1,0 +1,17 @@
+{
+  "name": "commandexample",
+  "version": "1.0.0",
+  "description": "post a command to your bot on the website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
